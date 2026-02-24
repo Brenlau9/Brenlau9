@@ -10,9 +10,8 @@ I build backend systems with a focus on:
 
 ## Featured Projects
 
-🔗 Multithreaded HTTP Server  
-🔗 URL Shortener API  
-🔗 Tetris Game Engine  
+Multithreaded HTTP Server  
+URL Shortener API  
 
 ## Currently Learning
 - Distributed systems design
